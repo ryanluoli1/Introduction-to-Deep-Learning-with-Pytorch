@@ -12,7 +12,8 @@ Notes and projects on [this course](https://zh.d2l.ai/index.html).
     
 2. **Multilayer Perceptrons**:
 
-    1. **Multilayer Perceptrons**
-    2. **Generalization**
-    3. **Dropout**
-    4. **Kaggle Project: Predicting House Prices**
+    1. **Multilayer Perceptrons (MLP)**
+    2. **L2 Regularization**
+    3. **Dropout Regularization**
+    4. **Numerical Stability**
+    5. **Kaggle Project: Predicting House Prices**
