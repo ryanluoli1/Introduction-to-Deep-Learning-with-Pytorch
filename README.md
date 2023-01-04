@@ -30,6 +30,11 @@ Notes and projects on [this course](https://zh.d2l.ai/index.html).
     8. Residual Networks (ResNet)
     9. Densely Connected Networks (DenseNet)
     
-4. **Recurrent Neural Netowrks**:
+5. **Attention**:
 
     1. 
+    
+6. **Optimization Algorithms**:
+
+    1. 
+   
