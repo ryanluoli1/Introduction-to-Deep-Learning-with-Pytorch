@@ -1,8 +1,5 @@
 # Dive-into-Deep-Learning-Course
 
-Notes and projects on [this course](https://zh.d2l.ai/index.html).
-
-
 ## Course Content
 
 1. **Linear Neural Networks**:
