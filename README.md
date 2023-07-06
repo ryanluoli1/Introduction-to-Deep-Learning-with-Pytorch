@@ -29,12 +29,3 @@ Notes and projects on [this course](https://zh.d2l.ai/index.html).
     7. Batch Normalization
     8. Residual Networks (ResNet)
     9. Densely Connected Networks (DenseNet)
-    
-5. **Attention**:
-
-    1. 
-    
-6. **Optimization Algorithms**:
-
-    1. 
-   
